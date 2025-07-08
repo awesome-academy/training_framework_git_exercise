@@ -1,6 +1,7 @@
 # 🧪 Git Training
 
 Chào mừng bạn đến với khoá thực hành Git! Mục tiêu giúp bạn làm chủ các thao tác Git quan trọng trong teamwork.
+Welcome!
 
 ## 🚀 Bài tập
 
