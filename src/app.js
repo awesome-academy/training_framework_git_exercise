@@ -1,1 +1,2 @@
-console.log('Welcome to Git edited! New change');
+console.log('Welcome to Git edited!')
+console.log('practice 7')
