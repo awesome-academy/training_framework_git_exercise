@@ -1,1 +1,1 @@
-console.log("Xin chào thế giới! Merged");
+console.log("Xin chào thế giới! Edit feature");
