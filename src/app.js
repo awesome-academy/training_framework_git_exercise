@@ -1,1 +1,1 @@
-console.log('Welcome to Git edited!');
+console.log('Welcome to Git edited! New change');
